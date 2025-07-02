@@ -22,5 +22,5 @@ O projeto consiste em uma interface de duelo simulada, com botões estilizados e
 
 ## 🔗 Links
 
-- [Visualizar Projeto](#)
+- [Visualizar Projeto](https://deboranortes.github.io/jogo-de-cartas-yu-gi-oh/)
 - [DIO](https://www.dio.me/)
